@@ -1,2 +1,1 @@
-
-Author - Manish patidar
+# this is my first Git Repository
